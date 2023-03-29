@@ -6,7 +6,11 @@ Welcome to the official GitHub page of Untis GmbH!
 
 ### 🚀 About Us
 
-We are a team of developers and educators who are passionate about improving education and scheduling processes worldwide. Our organization focuses on developing software solutions for the Untis suite, a leading software package for school administration and scheduling.
+We are a team of developers, educators, and other education enthusiasts who are passionate about making school life easier. We connect millions of schedulers, teachers, students and parents in 26,000+ schools around the world. 
+
+To foster our connected culture, we value reliability, courage, passion and enthusiasm, and mutual support.
+
+We have been developing solutions in the field of school organization for over 50 years and have recently made the decision to develop a new generation of our products.
 
 ### 🍿 Overview
 
